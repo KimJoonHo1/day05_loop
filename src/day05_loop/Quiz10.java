@@ -8,7 +8,7 @@ public class Quiz10 {
 		for(int i=1; i<= 100; i+=2) {
 			sum = sum + i;
 		}
-		System.out.println("sum의 합계 : " + sum);
+		System.out.println("sum의 합계 : " + sum); // 합계 : 2500
 	}
 
 }
